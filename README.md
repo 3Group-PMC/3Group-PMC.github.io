@@ -2,4 +2,12 @@
 
 3Group-PMC Site
 
-Universidad de los Andes
+##Team
+
+Daniel Althviz @dalthviz
+
+Ricardo Angel @rangel10
+
+Camilo Mendoza @camendoza94
+
+##Universidad de los Andes
